@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on applying Data Science tools to real-world problems
 - 🌱 Enthusiastic to learn more about AI
-- 📫 How to reach me: 
+- 📫 How to reach me: daramsushmithasai@gmail.com
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://in.linkedin.com/in/sushmitha-daram-743109216" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
