@@ -2,9 +2,9 @@
 <h1 align="center" style="font-size:250px">Hi, there! I'm Sushmitha 👋</h1>
 
 
-- 🔭 I’m currently working as a Data Analyst in Amazon 
-- 🌱 I’m currently learning more in detail regarding Data Science tools and applying them in the work
-- 📫 How to reach me: daramsushmithasai@gmail.com
+- 🔭 I’m currently working on applying Data Science tools to real-world problems
+- 🌱 Enthusiastic to learn more about AI
+- 📫 How to reach me: 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://in.linkedin.com/in/sushmitha-daram-743109216" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
